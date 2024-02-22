@@ -1,0 +1,49 @@
+body{
+    background: black;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.header{
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.header-text{
+    flex-direction: column; 
+    padding-left: 20px;
+}
+.user{
+    margin-bottom: 0px;
+}
+.name{
+    margin-top: 0px;
+}
+.dots-icon{
+    padding-left: 555px;
+}
+img{
+  width: 100%;
+}
+.post{
+    position: relative;
+    background-color: white;
+    margin: 100px 350px;
+}
+.post-icons{
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center; 
+}
+.space {
+    margin: 5px;
+}
+
+.bottom-post{
+    padding: 20px;
+}
+.last-icon{
+    padding-left: 530px;
+}
